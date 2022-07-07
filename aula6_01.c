@@ -2,14 +2,14 @@
 #include <stdlib.h>
 #include <string.h>
 
-/*Faça um programa que implemente uma lista encadeada
-de dados. Os dados são: nome (char 30), idade (inteiro) e
-ponteiro para o próximo.
-• Implemente as seguintes funções:
-• Inserir no início;
-• Mostrar todos;
-• Apagar o primeiro elemento da lista
-• Enviar um nome para a função, se existir, aumentar
+/*FaÃ§a um programa que implemente uma lista encadeada
+de dados. Os dados sÃ£o: nome (char 30), idade (inteiro) e
+ponteiro para o prÃ³ximo.
+â€¢ Implemente as seguintes funÃ§Ãµes:
+â€¢ Inserir no inÃ­cio;
+â€¢ Mostrar todos;
+â€¢ Apagar o primeiro elemento da lista
+â€¢ Enviar um nome para a funÃ§Ã£o, se existir, aumentar
 a idade em 10 anos.
 */
 
